@@ -66,5 +66,9 @@ Tệp kịch bản được lưu tại: `.github/workflows/cd-multi-env.yml` v�
 ## 3. Sản phẩm nộp bài
 1. Tệp kịch bản: [cd-multi-env.yml](file:///c:/Users/longl/Desktop/DevOps/Session12/Ex_03/.github/workflows/cd-multi-env.yml)
 2. Ảnh chụp màn hình:
-   - Cửa sổ pop-up **Review deployments** (hoặc màn hình hiển thị trạng thái `Waiting for review` có nút *Review deployments* và username của bạn là reviewer).
+   - Cửa sổ pop-up **Review deployments** 
+   ![alt text](image.png)
+
    - Màn hình sau khi hoàn tất deployment lên Production thành công (tích xanh).
+   ![alt text](image-1.png)
+
